@@ -1,7 +1,8 @@
 import 'regenerator-runtime/runtime'
 import { Wallet } from './near-wallet'
 
-const CONTRACT_ADDRESS = "counter.near-examples.testnet";
+// const CONTRACT_ADDRESS = "counter.near-examples.testnet";
+const CONTRACT_ADDRESS = "guarded-bait.testnet";
 
 // When creating the wallet you can choose to create an access key, so the user
 // can skip signing non-payable methods when interacting with the contract
